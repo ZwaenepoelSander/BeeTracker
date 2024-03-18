@@ -84,7 +84,7 @@ function Overview() {
             <MDTypography variant="button" color="text">
               Hive1
             </MDTypography>
-            <video src="src\assets\video\AppMAIS14R@2023-09-18@14-35-00.mp4" controls></video>
+            <video src="../assets/video/AppMAIS14R@2023-09-18@14-35-00.mp4" controls></video>
           </MDBox>
         </MDBox>
       </Header>
